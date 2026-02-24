@@ -127,12 +127,11 @@ Loss: MSE
 ## 📈 Results
 
 ### Model Performance
+Model Evaluation Metrics
 
-| Metric | Value |
-|--------|-------|
-| **R² Score** | **0.8873** |
-| **MAE** | $3.21 |
-| **RMSE** | $4.15 |
+Mean Absolute Error= 2.1406746531341048
+Root Mean Squared Error= 2.713985436185462
+R2 Score= 0.8872574418511469
 
 ### Key Insights
 ✅ Univariate model outperformed multi-feature approach  
